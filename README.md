@@ -1,6 +1,6 @@
 ## Data science project exercise #
-### == My Personal Data Science Training == ###
+ == My Personal Data Science Training == 
 
-#### This file i made for data science course i enrolled at dibimbing.id Data Science course ####
-#### Currently i already completing my course so this page i made for my exercise ###
+ This Repositories i made when i enrolled Data Science Course with dibimbing.id  
+ Currently i already completing my course so this page i made for my personal exercise to do some project and study
  
